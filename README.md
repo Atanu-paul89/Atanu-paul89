@@ -4,12 +4,13 @@
 
 # 👨‍💻 Shatadru Paul
 ### Frontend Developer | UI/UX Enthusiast | CS Graduate
-📧 Email: shatadru5689@gmail.com 
-📞 Contact: +8801521536426
+
 ---
 
 ## 👋 About Me
 I'm a passionate frontend developer from Bangladesh, focused on crafting responsive and user-friendly web interfaces. I enjoy solving real-world problems through clean code and intuitive design. Currently exploring modern frameworks and building impactful projects.
+📧 Email: shatadru5689@gmail.com 
+📞 Contact: +8801521536426
 
 ---
 
