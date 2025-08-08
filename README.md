@@ -26,10 +26,12 @@ I'm a passionate frontend developer from Bangladesh, focused on crafting respons
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -47,5 +49,5 @@ I'm a passionate frontend developer from Bangladesh, focused on crafting respons
 
 ![Shatadru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atanu-paul89&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu-paul89&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atanu-paul89&theme=dark)
+
 
