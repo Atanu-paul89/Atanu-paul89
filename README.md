@@ -42,6 +42,7 @@ I'm a passionate frontend developer from Bangladesh, focused on crafting respons
 ## 🌐 Social Links
 - [GitHub](https://github.com/Atanu-paul89)
 - [LinkedIn](https://www.linkedin.com/in/shatadru-paul-42222a193/)
+- [Shatadru Paul](https://myportfolio1212.web.app/)
 
 ---
 
