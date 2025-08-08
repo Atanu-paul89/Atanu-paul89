@@ -4,7 +4,8 @@
 
 # 👨‍💻 Shatadru Paul
 ### Frontend Developer | UI/UX Enthusiast | CS Graduate
-
+📧 Email: shatadru5689@gmail.com 
+📞 Contact: +8801521536426
 ---
 
 ## 👋 About Me
