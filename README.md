@@ -1,5 +1,5 @@
 
-![github_cover_paul](https://github.com/user-attachments/assets/f6022664-7ae4-406f-a33d-a8e5663d1a2e)
+<img width="1696" height="502" alt="Screenshot 2025-08-12 223113" src="https://github.com/user-attachments/assets/3f3f5a78-13c7-4790-9532-1974c314d56e" />
 
 
 # 👨‍💻 Shatadru Paul
