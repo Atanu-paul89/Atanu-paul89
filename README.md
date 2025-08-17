@@ -16,7 +16,7 @@ I'm a passionate frontend developer from Bangladesh, focused on crafting respons
 
 ## 🚀 Current Activities
 - 🌐 Exploring **Next.js**
-- 🧳 Building a **Tourism Website**
+- 🧳 Building a **Logistic Website**
 - 📚 Learning **Prompt Engineering**
 
 ---
